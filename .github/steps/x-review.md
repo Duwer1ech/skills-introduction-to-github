@@ -21,6 +21,12 @@ If you'd like to make a profile README, use the quickstart instructions below or
 4. If you created a new branch for your file, open and merge a pull request on your branch.
 5. Lastly, we'd love to hear what you thought of this exercise [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
 
+If you're not sure how to continue learning, follow this path:
+
+1. Repeat this exercise once more from scratch to practice branches, commits, and pull requests.
+2. Create or find a beginner-friendly issue in any repository, then solve it with the same branch → commit → pull request flow.
+3. Continue with more [GitHub Skills exercises](https://learn.github.com/skills), starting with GitHub Pages, GitHub Actions, or Communicate using Markdown.
+
 Check out these resources to learn more or get involved:
 
 - Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
